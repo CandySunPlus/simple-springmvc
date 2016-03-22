@@ -9,5 +9,7 @@ gradle jettyRun
 
 The server will listen on port 8080
 > http://localhost:8080/spring4
+
 or 
+
 > http://localhost:8080/spring4/hello/niksun
